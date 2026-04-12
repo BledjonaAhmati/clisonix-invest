@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>{{ site.title | default: 'Clisonix' }}</h1>
+            <p class="tagline">{{ site.description | default: 'Deep-Tech OS für neuronale Intelligenz | €1.2M Seed Ready' }}</p>
+            <nav class="nav">
+                <a href="{{ '/' | relative_url }}">Overview</a>
+                <a href="{{ '/#downloads' | relative_url }}">Documents</a>
+                <a href="{{ '/blog/' | relative_url }}">Market Updates</a>
+                <a href="{{ '/#updates' | relative_url }}">Recent Notes</a>
+                <a href="{{ '/#resources' | relative_url }}">Investor Files</a>
+                <a href="{{ '/#contact' | relative_url }}">Contact</a>
+            </nav>
+        </header>
+
+        {{ content }}
+
+        <div class="contact" id="contact">
+            <h2>Ledjan Ahmati – Founder & CEO</h2>
+            <p>clisonix@pm.me | +355 69 254 0305 | Bochum NRW</p>
+            <a href="https://www.clisonix.com" class="btn contact-link" target="_blank" rel="noopener noreferrer">www.clisonix.com</a>
+        </div>
+    </div>
+</body>
+</html>

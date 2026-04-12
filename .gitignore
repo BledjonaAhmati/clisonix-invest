@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.VSCode
+.idea/
+*.iml
+node_modules/
+_site/
+.jekyll-cache/
+.bundle/
+Gemfile.lock
+*.log
+.env
+.env.local

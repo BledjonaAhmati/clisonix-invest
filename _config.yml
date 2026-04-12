@@ -1,0 +1,49 @@
+# Jekyll Configuration for Clisonix Investor Materials Portal
+
+title: Clisonix Investor Materials
+description: Deep-Tech OS fuer neuronale Intelligenz - Investor documents, PDF-ready materials and Excel-ready financial models
+author: Ledjan Ahmati
+email: clisonix@pm.me
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown processor
+markdown: kramdown
+
+# Liquid configuration
+strict_filters: false
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Post defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /blog/:year/:month/:day/:title/
+
+# Site config
+lang: de
+baseurl: ""
+url: "https://clisonix-invest.github.io"
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num"
+
+# Exclude from build
+exclude:
+  - .gitignore
+  - README.md
+  - COLLABORATION.md
+  - deploy.md
