@@ -34,8 +34,8 @@ defaults:
 
 # Site config
 lang: de
-baseurl: ""
-url: "https://clisonix-invest.github.io"
+baseurl: "/clisonix-invest"
+url: "https://bledjonaahmati.github.io"
 
 # Pagination
 paginate: 10
