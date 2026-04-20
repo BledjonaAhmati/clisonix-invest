@@ -1,6 +1,7 @@
 # Clisonix Pitchdeck – 10 Folien (Investor-ready, Deutsch)
 
 **Design Instructions (Canva/PPT):**  
+
 - Hintergrund: #0A1929 (dunkelblau)  
 - Akzent: #00B4D8 (cyan)  
 - Text: #FFFFFF / #E0E0E0  
@@ -8,11 +9,13 @@
 - Footer: 'Vertraulich – Nur für Investoren | © 2026 Clisonix'
 
 ## Folie 1: Titel & Vision
+
 **Titel:** Clisonix – Das Betriebssystem für personalisierte, auditierbare Intelligenz  
 **Untertitel:** Deep-Tech-Plattform an der Schnittstelle von KI, biologischen Signalen und modularer Cloud-Infrastruktur  
 
 **Kernaussage:**  
 Clisonix ist kein weiteres KI-Tool. Es ist eine Cloud-native Plattform, die drei Welten vereint:  
+
 - KI-Workflows und Reasoning-Systeme  
 - EEG-/neuronale Signalverarbeitung mit Audio- und Datenpipelines  
 - API-first Integration mit SDKs, Monitoring und produktionsnaher Auslieferung  
@@ -20,9 +23,11 @@ Clisonix ist kein weiteres KI-Tool. Es ist eine Cloud-native Plattform, die drei
 **Grafik:** Abstraktes Neuronen-Netzwerk (zentral)
 
 ## Folie 2: Problem
+
 **Titel:** Warum heutige KI- & Signalverarbeitungsprojekte scheitern  
 
 **4 Boxen (2x2):**  
+
 | ❌ Keine Echtzeit? | ❌ Integration? |  
 |--------------------|-----------------|  
 | 80% bleiben Laborprototypen | Forschung ↔ Entwicklung ↔ Betrieb isoliert |  
@@ -32,9 +37,11 @@ Clisonix ist kein weiteres KI-Tool. Es ist eine Cloud-native Plattform, die drei
 **Quelle:** Interne Analyse aus 15+ Forschungsprojekten
 
 ## Folie 3: Lösung
+
 **Titel:** Die Clisonix Plattform – Modulare Baukastenarchitektur  
 
 **Diagramm:** 6 Module um 'Clisonix Core'  
+
 - 🧠 EEG-Signalverarbeitung  
 - 🎵 Audio-Analyse  
 - 🤖 KI/Reasoning Workflows  
@@ -45,9 +52,11 @@ Clisonix ist kein weiteres KI-Tool. Es ist eine Cloud-native Plattform, die drei
 **Unten:** Einheitlicher Betriebsrahmen für schnelle Iteration, reproduzierbare Ergebnisse und stabile Auslieferung
 
 ## Folie 4: Technologie & Architektur
+
 **Titel:** Technischer Kern – Cloud-native & edge-ready  
 
 **Tabelle (links):**  
+
 | Komponente | Spezifikation |  
 |------------|---------------|  
 | GPU-Server | Hetzner RTX 5090, 128GB RAM |  
@@ -62,6 +71,7 @@ Clisonix ist kein weiteres KI-Tool. Es ist eine Cloud-native Plattform, die drei
 **Rechts:** Architektur-Diagramm (Cloudflare → K8s/Services → GPU → Storage + Monitoring)
 
 ## Folie 5: Traction & Reifegrad
+
 **Titel:** Kein Konzept – Ein live System mit echten Nutzern  
 
 **3 KPIs:**  
@@ -73,6 +83,7 @@ Clisonix ist kein weiteres KI-Tool. Es ist eine Cloud-native Plattform, die drei
 **Status:** ✅ Deployed | ✅ Pilotkunden | ✅ Produktionserprobt
 
 ## Folie 6: F&E-Roadmap
+
 **Titel:** Von der Software-Plattform zum Hardware-Nanogrid  
 
 **Zeitleiste:**  
@@ -84,6 +95,7 @@ Clisonix ist kein weiteres KI-Tool. Es ist eine Cloud-native Plattform, die drei
 **Unten:** Meilensteine finanziert bis Q3 2026
 
 ## Folie 7: Markt & Zielsegmente
+
 **Titel:** Wachsende Märkte mit kritischen Anforderungen  
 
 **4 Segmente:**  
@@ -91,6 +103,7 @@ Clisonix ist kein weiteres KI-Tool. Es ist eine Cloud-native Plattform, die drei
 🏭 Enterprise/Industrie 4.0 (Monitoring) | 🔌 API/Developer (PaaS)  
 
 **Preistabelle 2026:**  
+
 | Plan | Preis/Monat | Nutzer | Umsatz |  
 |------|-------------|--------|--------|  
 | Pro | €29 | 420 | €146k |  
@@ -101,12 +114,14 @@ Clisonix ist kein weiteres KI-Tool. Es ist eine Cloud-native Plattform, die drei
 **TAM:** €850M (DACH) | **SAM:** €210M | **SOM:** €4.2M
 
 ## Folie 8: Geschäftsmodell & Skalierung
+
 **Titel:** SaaS + Nutzungsbasierte Erlöse + Enterprise-Setup  
 
 **3 Säulen:**  
 SaaS (Abos) | Nutzung (API/Bandbreite) | Einmalig (Setup/Integration)  
 
 **Kennzahlen:**  
+
 | Metrik | 2026 | 2027 | 2028 |  
 |--------|------|------|------|  
 | ARPU | €16.8 | €25.4 | €32.8 |  
@@ -117,11 +132,13 @@ SaaS (Abos) | Nutzung (API/Bandbreite) | Einmalig (Setup/Integration)
 **CAC sinkt, LTV steigt – hoch skalierbar**
 
 ## Folie 9: Finanzierungslogik
+
 **Titel:** €1.2 Mio für beschleunigte Skalierung  
 
 **Use of Funds (Kuchen):** 50% R&D | 25% Marketing | 15% Ops | 10% Infra  
 
 **Prognose:**  
+
 | Jahr | Umsatz | Nettoergebnis |  
 |------|--------|---------------|  
 | 2026 | €425k | –€277k |  
@@ -131,15 +148,16 @@ SaaS (Abos) | Nutzung (API/Bandbreite) | Einmalig (Setup/Integration)
 **Break-even Q1 2027 | IRR 65% | ROI 3J: 4.2x**
 
 ## Folie 10: Team, Standort, Nächste Schritte
+
 **Titel:** Warum Clisonix aus NRW europäisch skaliert  
 
 **Team:**  
 👤 **Ledjan Ahmati** – Gründer & CEO (Neuroscience + AI)  
-🏢 **ABA GmbH** – Technischer Partner (contact@clisonix.com)  
+🏢 **ABA GmbH** – Technischer Partner (<contact@clisonix.com>)  
 
 **Standort:** 📍 Bochum, NRW – Deep-Tech-Hub  
 **Partner:** Hetzner, Cloudflare, deutsche Unis  
-**Official Platform:** www.clisonix.com  
+**Official Platform:** <www.clisonix.com>  
 
 **Nächste Schritte:**  
 ☐ Q3 2026: €1.2M Finanzierung  
@@ -147,5 +165,4 @@ SaaS (Abos) | Nutzung (API/Bandbreite) | Einmalig (Setup/Integration)
 ☐ Q1 2027: API-Launch  
 ☐ Q3 2027: US-Expansion  
 
-**Kontakt:** clisonix@pm.me | +355 69 254 0305 | github.com/Web8kameleon-hub/clisonix.com
-
+**Kontakt:** <clisonix@pm.me> | +355 69 254 0305 | github.com/Web8kameleon-hub/clisonix.com
