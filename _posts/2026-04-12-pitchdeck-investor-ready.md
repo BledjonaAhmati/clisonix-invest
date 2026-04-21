@@ -62,7 +62,8 @@ Unser vollständiges Investor-Deck ist jetzt verfügbar und ready für Pitch-Eve
 
 ### Download Links
 
-- 📄 [Pitchdeck Markdown](../pitchdeck/slides.md)
+- 📄 [Pitchdeck PDF](../pitchdeck/slides.pdf)
+- 🧾 [Pitchdeck Source (Markdown)](../pitchdeck/slides.md)
 - 🎨 [Design Guidelines](../pitchdeck/style.css)
 
 ---
